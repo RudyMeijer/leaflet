@@ -1,7 +1,7 @@
 {
   "entryAssembly": "leaflet_openstreet",
   "resources": {
-    "hash": "sha256-BLLvmUgnu4h2zCe9WTA1K45fNMEhLBRVBHebmH5eozg=",
+    "hash": "sha256-WOwUO1yZNIOGSG5WJgg/9rfsD/8EKpt98yKZKEpRbSA=",
     "runtime": {
       "dotnet.7.0.14.x9f5u4gnp1.js": "sha256-YWGUknGRzP/fgO6YjvCJKPVQNZAPEd6ll+rHfQEIW+I=",
       "dotnet.timezones.blat": "sha256-t5xviiOQTfAsF0UDhmcyalKiaehUmf/sqJl97tmPM0M=",
@@ -11,7 +11,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "leaflet_openstreet.dll": "sha256-151Mgji+7hC31ZRnUAcpDP5oApZTOuofZcvauhWGv0U=",
+      "leaflet_openstreet.dll": "sha256-+xtHZ79YvftveIHE4HYLf0Y1iritWw2HpiwHSp8m8v8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-h3b/h8RHSoCJ0Sjd6yf8VfoKk4va5PcIDZr/COzisyk=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-M4eAEQfmoZY9Hoblq1fGL6MCo/dlBEjHR0mgArTQH1U=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-tpvXX7M/LEGTEvYWgu8LEXMhjtjwoFAKuxUiqdpIH2E=",
